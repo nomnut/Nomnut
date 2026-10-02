@@ -6,8 +6,9 @@ I build data pipelines and automation that move, clean and reconcile data so peo
 Computer Science graduate with ~3 years of hands-on experience in data engineering and automation in the Thai retail sector.
 
 - 🌍 Based in **Bangkok, Thailand**
-- 🔧 Building ETL pipelines with **Apache Airflow**, **Python** and **SQL**
-- 🤖 Automating web portals and back-office tasks with **Playwright** , **power automate** and **UiPath**
+- 🔧 Building ETL pipelines with **Apache Airflow**, **Python** and **SQL (Snowflake)**
+- 🤖 Automating web portals and back-office tasks with **Playwright**, **UiPath** and **Power Automate**
+- 🧠 Using AI coding agents (**Claude Code**) to speed up building, debugging and documenting pipelines and bots
 - 🧪 Interested in testing data pipelines (pytest, docker-compose, testcontainers) and clean CI/CD practices
 - 💼 Open to **Data Engineer**, **Python Developer** and **RPA Developer** roles
 - ✉️ Reach me at [nomnut.nut@gmail.com](mailto:nomnut.nut@gmail.com)
@@ -29,6 +30,12 @@ Computer Science graduate with ~3 years of hands-on experience in data engineeri
 
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+
+**AI-Assisted Development**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20API-191919?style=flat-square&logo=anthropic&logoColor=white)
 
 **Engineering & Tools**
 
@@ -47,13 +54,6 @@ Computer Science graduate with ~3 years of hands-on experience in data engineeri
 
 ---
 
-### 📌 Featured Project
-
-| Project | Description |
-|---|---|
-| [**UIPath-Money-transfer-rate**](https://github.com/nomnut/UIPath-Money-transfer-rate) | UiPath bot that extracts THB buying transfer rates (USD, GBP, SGD, EUR, JPY) from the Bank of Thailand website, writes an Excel report and emails it automatically, with run logging. |
-
----
 
 ### 🤝 Connect
 
